@@ -10,15 +10,9 @@ electric power consumption Data Set" from:
 
 * For description of the data, see Coursera Course Projects week 1 of Exploratory Data Analysis
 
-## Script
+## Scripts
 
-The 4 graphics are reproduced by the R script ‘week1.R’. In order to reproduce the results, set the working directory to the directory of this script, then execute it in R.
+The script ‘week1.R’ downloads the data and subsets it for only the relevant date
+range, then saves it locally.
 
-The script does the following
-
-* A
-
-* B
-
-* C
-
+The four ‘plotXXX.R’ scripts create the four PNG files from the subset of the data.
